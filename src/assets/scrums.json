@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "name": "Alpha",
+        "members": [
+            {
+                "name": "Anjam",
+                "adid": "1",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Bhavik",
+                "adid": "2",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    { 
+        "id": 2,
+        "name": "Baahubali",
+        "members": [
+            {
+                "name": "Ankit",
+                "adid": "3",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Ashita",
+                "adid": "4",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Flash",
+        "members": [
+            {
+                "name": "Komal",
+                "adid": "5",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Kishan",
+                "adid": "6",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Phantom",
+        "members": [
+            {
+                "name": "Prasanna",
+                "adid": "7",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Bhakti",
+                "adid": "8",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Roadies",
+        "members": [
+            {
+                "name": "Divya",
+                "adid": "9",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Chandan",
+                "adid": "10",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Rogue",
+        "members": [
+            {
+                "name": "Shikha",
+                "adid": "11",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Shobhit",
+                "adid": "12",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Stormtroopers",
+        "members": [
+            {
+                "name": "Harmeet",
+                "adid": "13",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Kanika",
+                "adid": "14",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Utopians",
+        "members": [
+            {
+                "name": "Shraddha",
+                "adid": "15",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Pawan",
+                "adid": "16",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "WhiteWalkers",
+        "members": [
+            {
+                "name": "Puja",
+                "adid": "17",
+                "email": "",
+                "leaves": []
+            },
+            {
+                "name": "Rohit",
+                "adid": "18",
+                "email": "",
+                "leaves": []
+            }
+        ]
+    }
+]
